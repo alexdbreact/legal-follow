@@ -164,126 +164,126 @@ export default function EditMainsForm({ id, respo1, respo2, respo3,respo4,respo5
             />
             <input
                 onChange={(e) => setNewrespo5(e.target.value)}
-                value={newrespo4}
+                value={newrespo5}
                 placeholder="اكتب الرد هنا...."
                 className="input input-bordered input-accent w-full max-w-xs p-2"
                 type="text"
             />
             <input
                 onChange={(e) => setNewfrom5(e.target.value)}
-                value={newfrom4}
+                value={newfrom5}
                 placeholder="اكتب الجهة الوارد منها الرد...."
                 className="input input-bordered input-accent w-full max-w-xs p-2"
                 type="text"
             />
             <input
                 onChange={(e) => setNewdatos5(e.target.value)}
-                value={newdatos4}
+                value={newdatos5}
                 placeholder="اكتب تاريخ الرد ...."
                 className="input input-bordered input-accent w-full max-w-xs p-2"
                 type="text"
             />
             <input
                 onChange={(e) => setNewrespo6(e.target.value)}
-                value={newrespo4}
+                value={newrespo6}
                 placeholder="اكتب الرد هنا...."
                 className="input input-bordered input-accent w-full max-w-xs p-2"
                 type="text"
             />
             <input
                 onChange={(e) => setNewfrom6(e.target.value)}
-                value={newfrom4}
+                value={newfrom6}
                 placeholder="اكتب الجهة الوارد منها الرد...."
                 className="input input-bordered input-accent w-full max-w-xs p-2"
                 type="text"
             />
             <input
                 onChange={(e) => setNewdatos6(e.target.value)}
-                value={newdatos4}
+                value={newdatos6}
                 placeholder="اكتب تاريخ الرد ...."
                 className="input input-bordered input-accent w-full max-w-xs p-2"
                 type="text"
             />
             <input
                 onChange={(e) => setNewrespo7(e.target.value)}
-                value={newrespo4}
+                value={newrespo7}
                 placeholder="اكتب الرد هنا...."
                 className="input input-bordered input-accent w-full max-w-xs p-2"
                 type="text"
             />
             <input
                 onChange={(e) => setNewfrom7(e.target.value)}
-                value={newfrom4}
+                value={newfrom7}
                 placeholder="اكتب الجهة الوارد منها الرد...."
                 className="input input-bordered input-accent w-full max-w-xs p-2"
                 type="text"
             />
             <input
                 onChange={(e) => setNewdatos7(e.target.value)}
-                value={newdatos4}
+                value={newdatos7}
                 placeholder="اكتب تاريخ الرد ...."
                 className="input input-bordered input-accent w-full max-w-xs p-2"
                 type="text"
             />
             <input
                 onChange={(e) => setNewrespo8(e.target.value)}
-                value={newrespo4}
+                value={newrespo8}
                 placeholder="اكتب الرد هنا...."
                 className="input input-bordered input-accent w-full max-w-xs p-2"
                 type="text"
             />
             <input
                 onChange={(e) => setNewfrom8(e.target.value)}
-                value={newfrom4}
+                value={newfrom8}
                 placeholder="اكتب الجهة الوارد منها الرد...."
                 className="input input-bordered input-accent w-full max-w-xs p-2"
                 type="text"
             />
             <input
                 onChange={(e) => setNewdatos8(e.target.value)}
-                value={newdatos4}
+                value={newdatos8}
                 placeholder="اكتب تاريخ الرد ...."
                 className="input input-bordered input-accent w-full max-w-xs p-2"
                 type="text"
             />
             <input
                 onChange={(e) => setNewrespo9(e.target.value)}
-                value={newrespo4}
+                value={newrespo9}
                 placeholder="اكتب الرد هنا...."
                 className="input input-bordered input-accent w-full max-w-xs p-2"
                 type="text"
             />
             <input
                 onChange={(e) => setNewfrom9(e.target.value)}
-                value={newfrom4}
+                value={newfrom9}
                 placeholder="اكتب الجهة الوارد منها الرد...."
                 className="input input-bordered input-accent w-full max-w-xs p-2"
                 type="text"
             />
             <input
                 onChange={(e) => setNewdatos9(e.target.value)}
-                value={newdatos4}
+                value={newdatos9}
                 placeholder="اكتب تاريخ الرد ...."
                 className="input input-bordered input-accent w-full max-w-xs p-2"
                 type="text"
             />
             <input
                 onChange={(e) => setNewrespo10(e.target.value)}
-                value={newrespo4}
+                value={newrespo10}
                 placeholder="اكتب الرد هنا...."
                 className="input input-bordered input-accent w-full max-w-xs p-2"
                 type="text"
             />
             <input
                 onChange={(e) => setNewfrom10(e.target.value)}
-                value={newfrom4}
+                value={newfrom10}
                 placeholder="اكتب الجهة الوارد منها الرد...."
                 className="input input-bordered input-accent w-full max-w-xs p-2"
                 type="text"
             />
             <input
                 onChange={(e) => setNewdatos10(e.target.value)}
-                value={newdatos4}
+                value={newdatos10}
                 placeholder="اكتب تاريخ الرد ...."
                 className="input input-bordered input-accent w-full max-w-xs p-2"
                 type="text"
